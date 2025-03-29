@@ -2,4 +2,4 @@
 
 
 
-[Databricks Community Edition](https://docs.google.com/document/d/e/2PACX-1vRAIgppih9uNoMYVTRtXcFJHhve8Gw1jD1jqs5uKnYwVX3JG2aaVCfyqXoM2umnjBZQATbSTuzbey-P/pub) 
+[Databricks Community Edition](https://docs.google.com/document/d/e/2PACX-1vQy2eViX-c7jgSi7U1juS6wT_jM619ZVpou1MzI5aBhG0o8fmf8Ac05lUh-gmAEOR5m70lcgvpOEFks/pub) 
